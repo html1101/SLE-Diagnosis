@@ -1,0 +1,2085 @@
+Sample	GSE	Experimental Strategy	GPL	Condition	Tissue	Cell Type	Gender	Age	Ethnicity
+GSM260886	GSE10325	Expression	GPL96	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM260889	GSE10325	Expression	GPL96	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM260891	GSE10325	Expression	GPL96	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM260894	GSE10325	Expression	GPL96	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM260897	GSE10325	Expression	GPL96	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM260900	GSE10325	Expression	GPL96	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM260903	GSE10325	Expression	GPL96	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM260906	GSE10325	Expression	GPL96	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM260909	GSE10325	Expression	GPL96	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM260914	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260916	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260919	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260922	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260925	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260927	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260930	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260933	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260936	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260939	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260942	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260945	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260950	GSE10325	Expression	GPL96	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM260887	GSE10325	Expression	GPL96	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM260890	GSE10325	Expression	GPL96	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM260892	GSE10325	Expression	GPL96	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM260895	GSE10325	Expression	GPL96	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM260898	GSE10325	Expression	GPL96	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM260901	GSE10325	Expression	GPL96	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM260904	GSE10325	Expression	GPL96	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM260907	GSE10325	Expression	GPL96	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM260910	GSE10325	Expression	GPL96	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM260915	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260917	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260920	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260923	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260926	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260928	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260931	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260934	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260937	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260940	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260943	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260946	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260949	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260951	GSE10325	Expression	GPL96	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM260888	GSE10325	Expression	GPL96	Healthy	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260893	GSE10325	Expression	GPL96	Healthy	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260896	GSE10325	Expression	GPL96	Healthy	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260899	GSE10325	Expression	GPL96	Healthy	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260902	GSE10325	Expression	GPL96	Healthy	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260905	GSE10325	Expression	GPL96	Healthy	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260908	GSE10325	Expression	GPL96	Healthy	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260911	GSE10325	Expression	GPL96	Healthy	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260912	GSE10325	Expression	GPL96	Healthy	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260913	GSE10325	Expression	GPL96	Healthy	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260918	GSE10325	Expression	GPL96	SLE	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260921	GSE10325	Expression	GPL96	SLE	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260924	GSE10325	Expression	GPL96	SLE	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260929	GSE10325	Expression	GPL96	SLE	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260932	GSE10325	Expression	GPL96	SLE	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260935	GSE10325	Expression	GPL96	SLE	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260938	GSE10325	Expression	GPL96	SLE	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260941	GSE10325	Expression	GPL96	SLE	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260944	GSE10325	Expression	GPL96	SLE	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260947	GSE10325	Expression	GPL96	SLE	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM260952	GSE10325	Expression	GPL96	SLE	Peripheral blood	Myeloid cells	NA	NA	NA
+GSM2981057	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981058	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981059	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981060	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981061	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981062	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981063	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981064	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981065	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981066	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981067	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981068	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981069	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981070	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981071	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981072	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981073	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981074	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981075	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981121	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981122	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981123	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981124	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981126	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981133	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981135	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981136	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981140	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981141	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981142	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981143	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981144	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981145	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981147	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981149	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981155	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981161	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981163	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981198	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981199	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981202	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981203	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981204	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981205	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981207	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981208	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981209	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981210	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981211	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981212	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981213	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981214	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981222	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981226	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981234	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981244	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981253	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981257	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981258	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981259	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981260	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981261	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981262	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981263	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981265	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981266	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981268	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981269	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981270	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981271	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Male	NA	NA
+GSM2981273	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981274	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981275	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981277	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981282	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981284	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981288	GSE110169	Expression	GPL13667	Healthy	Peripheral blood	NA	Female	NA	NA
+GSM2981077	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981078	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981079	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981080	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981082	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981083	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981084	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981085	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981089	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981090	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981094	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981095	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981098	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981099	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981100	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981104	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981105	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981106	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981107	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981112	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981113	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981114	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981115	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981119	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981120	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981131	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981132	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981137	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981138	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981139	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981146	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981152	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981154	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981158	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981160	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981162	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981167	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981168	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981172	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981174	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981176	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981179	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981183	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981184	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981185	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981186	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981188	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981190	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981192	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981193	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981195	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981196	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981197	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981201	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981206	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981217	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981223	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981224	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981242	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981243	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981245	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981246	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981249	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981251	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981264	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981267	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981272	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981276	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981279	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981280	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981281	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981283	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981286	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981289	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981290	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981291	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Male	NA	NA
+GSM2981293	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981294	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981295	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981296	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981297	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981298	GSE110169	Expression	GPL13667	SLE	Peripheral blood	NA	Female	NA	NA
+GSM2981603	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981604	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981605	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981606	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981607	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981608	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981609	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981610	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981611	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981612	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981613	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981614	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981615	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981616	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981617	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981618	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981619	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981620	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981621	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981622	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981623	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981624	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981625	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981626	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981627	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981628	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981629	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981630	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981631	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981632	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981633	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981634	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981635	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981636	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981637	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981638	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981639	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981640	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981641	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981642	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981643	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981644	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981645	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981646	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981647	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981648	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981649	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981650	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981651	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981652	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981653	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981654	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981655	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981656	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981657	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981658	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981659	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981660	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981661	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981662	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981663	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981664	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981665	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981666	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981667	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981668	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981669	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981670	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981671	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981672	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981673	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981674	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981675	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981676	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981677	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981678	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981679	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981680	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981681	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981682	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981683	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981684	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981685	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981686	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981687	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981688	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981689	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981690	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981691	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981692	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981693	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981694	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981695	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981696	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981697	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981698	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981699	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981700	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981701	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981702	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981703	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981704	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981705	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981706	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981707	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981708	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981709	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981710	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981711	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981712	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981713	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981714	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981715	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981716	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981717	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981718	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981719	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981720	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981721	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981722	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981723	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981724	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981725	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981726	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981727	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981728	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981729	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981730	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981731	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981732	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981733	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981734	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981735	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981736	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981737	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981738	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981739	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981740	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981741	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981742	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981743	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981744	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981745	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981746	GSE110174	Expression	GPL13158	SLE	Peripheral blood	NA	NA	NA	NA
+GSM2981747	GSE110174	Expression	GPL13158	Healthy	Peripheral blood	NA	NA	NA	NA
+GSM2981748	GSE110174	Expression	GPL13158	Healthy	Peripheral blood	NA	NA	NA	NA
+GSM2981749	GSE110174	Expression	GPL13158	Healthy	Peripheral blood	NA	NA	NA	NA
+GSM2981750	GSE110174	Expression	GPL13158	Healthy	Peripheral blood	NA	NA	NA	NA
+GSM2981751	GSE110174	Expression	GPL13158	Healthy	Peripheral blood	NA	NA	NA	NA
+GSM2981752	GSE110174	Expression	GPL13158	Healthy	Peripheral blood	NA	NA	NA	NA
+GSM2981753	GSE110174	Expression	GPL13158	Healthy	Peripheral blood	NA	NA	NA	NA
+GSM2981754	GSE110174	Expression	GPL13158	Healthy	Peripheral blood	NA	NA	NA	NA
+GSM2981755	GSE110174	Expression	GPL13158	Healthy	Peripheral blood	NA	NA	NA	NA
+GSM2981756	GSE110174	Expression	GPL13158	Healthy	Peripheral blood	NA	NA	NA	NA
+GSM3004023	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004024	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004025	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Male	NA	NA
+GSM3004026	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Male	NA	NA
+GSM3004027	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004028	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004029	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004030	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004031	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004032	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004033	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004034	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004035	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004036	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Male	NA	NA
+GSM3004037	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004038	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004039	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004040	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Male	NA	NA
+GSM3004041	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004042	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004043	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004044	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004045	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Female	NA	NA
+GSM3004046	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Male	NA	NA
+GSM3004047	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	Male	NA	NA
+GSM3004048	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	Male	NA	NA
+GSM3004049	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Female	NA	NA
+GSM3004050	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Female	NA	NA
+GSM3004051	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Male	NA	NA
+GSM3004052	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Male	NA	NA
+GSM3004053	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Female	NA	NA
+GSM3004054	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Female	NA	NA
+GSM3004055	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Female	NA	NA
+GSM3004056	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Female	NA	NA
+GSM3004057	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Female	NA	NA
+GSM3004058	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Female	NA	NA
+GSM3004059	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Female	NA	NA
+GSM3004060	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Female	NA	NA
+GSM3004061	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Female	NA	NA
+GSM3004062	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Male	NA	NA
+GSM3004063	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Female	NA	NA
+GSM3004064	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Female	NA	NA
+GSM3004065	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Female	NA	NA
+GSM3004066	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Male	NA	NA
+GSM3004067	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Female	NA	NA
+GSM3004068	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Female	NA	NA
+GSM3004069	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Female	NA	NA
+GSM3004070	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Female	NA	NA
+GSM3004071	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Male	NA	NA
+GSM3004072	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Female	NA	NA
+GSM3004073	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	B cells	Male	NA	NA
+GSM3004074	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	B cells	Male	NA	NA
+GSM3004075	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM3004076	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM3004077	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Male	NA	NA
+GSM3004078	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Male	NA	NA
+GSM3004079	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM3004080	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM3004081	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM3004082	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM3004083	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM3004084	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM3004085	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM3004086	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM3004087	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM3004088	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Male	NA	NA
+GSM3004089	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM3004090	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM3004091	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM3004092	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Male	NA	NA
+GSM3004093	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM3004094	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM3004095	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM3004096	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM3004097	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM3004098	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Male	NA	NA
+GSM3004099	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	T cells	Male	NA	NA
+GSM3004100	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	T cells	Male	NA	NA
+GSM3004101	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004102	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004103	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Male	NA	NA
+GSM3004104	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Male	NA	NA
+GSM3004105	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004106	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004107	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004108	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004109	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004110	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004111	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004112	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004113	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004114	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Male	NA	NA
+GSM3004115	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004116	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004117	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004118	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Male	NA	NA
+GSM3004119	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004120	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004121	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004122	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004123	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Female	NA	NA
+GSM3004124	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Male	NA	NA
+GSM3004125	GSE110607	Methylation	GPL13534	SLE	Peripheral blood	Granulocytes	Male	NA	NA
+GSM3004126	GSE110607	Methylation	GPL13534	Healthy	Peripheral blood	Granulocytes	Male	NA	NA
+GSM300916	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300918	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300919	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300921	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300922	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300924	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300926	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM300928	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300930	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300931	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300932	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Other
+GSM300934	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300936	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300938	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300939	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300940	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300941	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300943	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300944	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300945	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300946	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300947	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300948	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300949	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300950	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM300951	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM300952	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM300953	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Other
+GSM300955	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Asian
+GSM300957	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	1-10	Black
+GSM300959	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Black
+GSM300960	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Black
+GSM300961	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300963	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300964	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300965	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM300967	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM300968	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300970	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Hispanic/Latino
+GSM300971	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Hispanic/Latino
+GSM300972	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM300973	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM300974	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM300975	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM300976	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM300978	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300979	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300980	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300982	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300983	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300984	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Hispanic/Latino
+GSM300986	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300988	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Black
+GSM300990	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Hispanic/Latino
+GSM300991	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Hispanic/Latino
+GSM300993	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Hispanic/Latino
+GSM300994	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Hispanic/Latino
+GSM300995	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Hispanic/Latino
+GSM300996	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Hispanic/Latino
+GSM300997	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM300999	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Black
+GSM301001	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM301003	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301005	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301007	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM301009	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301011	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301012	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301013	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301015	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Black
+GSM301017	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301019	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301021	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301023	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM301025	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301027	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM301029	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301031	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301033	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301035	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM301036	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM301037	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM301038	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM301040	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM301041	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM301043	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301044	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301045	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301047	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Black
+GSM301049	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301051	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM301053	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM301055	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301057	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Asian
+GSM301058	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Asian
+GSM301060	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Asian
+GSM301061	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Asian
+GSM301062	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301064	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301066	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301068	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301070	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301071	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301789	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Black
+GSM301791	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Black
+GSM301793	GSE11907	Expression	GPL96	Healthy	Peripheral blood	PBMCs	Female	1-10	White
+GSM301794	GSE11907	Expression	GPL96	Healthy	Peripheral blood	PBMCs	Female	11-20	Hispanic/Latino
+GSM301795	GSE11907	Expression	GPL96	Healthy	Peripheral blood	PBMCs	Female	1-10	Hispanic/Latino
+GSM301796	GSE11907	Expression	GPL96	Healthy	Peripheral blood	PBMCs	Male	1-10	White
+GSM301798	GSE11907	Expression	GPL96	Healthy	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301799	GSE11907	Expression	GPL96	Healthy	Peripheral blood	PBMCs	Female	1-10	White
+GSM301800	GSE11907	Expression	GPL96	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM301801	GSE11907	Expression	GPL96	Healthy	Peripheral blood	PBMCs	NA	1-10	NA
+GSM301803	GSE11907	Expression	GPL96	Healthy	Peripheral blood	PBMCs	NA	1-10	NA
+GSM301804	GSE11907	Expression	GPL96	Healthy	Peripheral blood	PBMCs	NA	11-20	NA
+GSM301950	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Female	1-10	Black
+GSM301952	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	1-10	Black
+GSM301968	GSE11907	Expression	GPL96	SLE	Peripheral blood	PBMCs	Male	11-20	Other
+GSM300917	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM300920	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM300923	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300925	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300927	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM300929	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM300933	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Other
+GSM300935	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300937	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300942	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM300954	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Male	11-20	Other
+GSM300956	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Male	11-20	Asian
+GSM300958	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Male	1-10	Black
+GSM300962	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300966	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	1-10	NA
+GSM300969	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300977	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	1-10	NA
+GSM300981	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM300985	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Male	11-20	NA
+GSM300987	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM300989	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	1-10	Black
+GSM300992	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Male	11-20	NA
+GSM300998	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301000	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	1-10	Black
+GSM301002	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM301004	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301006	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301008	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM301010	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301014	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301016	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Male	11-20	Black
+GSM301018	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301020	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301022	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301024	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	1-10	NA
+GSM301026	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301028	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM301030	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301032	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301034	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301039	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	1-10	NA
+GSM301042	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	1-10	NA
+GSM301046	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301048	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	1-10	Black
+GSM301050	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301052	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM301054	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	White
+GSM301056	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301059	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Asian
+GSM301063	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301065	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301067	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301069	GSE11907	Expression	GPL97	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301955	GSE11907	Expression	GPL97	Healthy	Peripheral blood	PBMCs	Female	1-10	White
+GSM301957	GSE11907	Expression	GPL97	Healthy	Peripheral blood	PBMCs	Female	11-20	NA
+GSM301959	GSE11907	Expression	GPL97	Healthy	Peripheral blood	PBMCs	Female	1-10	NA
+GSM301961	GSE11907	Expression	GPL97	Healthy	Peripheral blood	PBMCs	Female	1-10	White
+GSM301963	GSE11907	Expression	GPL97	Healthy	Peripheral blood	PBMCs	Female	1-10	White
+GSM301965	GSE11907	Expression	GPL97	Healthy	Peripheral blood	PBMCs	Female	11-20	Black
+GSM301967	GSE11907	Expression	GPL97	Healthy	Peripheral blood	PBMCs	Female	1-10	White
+GSM349729	GSE13887	Expression	GPL570	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM349730	GSE13887	Expression	GPL570	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM349734	GSE13887	Expression	GPL570	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM349739	GSE13887	Expression	GPL570	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM349742	GSE13887	Expression	GPL570	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM349743	GSE13887	Expression	GPL570	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM349744	GSE13887	Expression	GPL570	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM349745	GSE13887	Expression	GPL570	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM349746	GSE13887	Expression	GPL570	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM349747	GSE13887	Expression	GPL570	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM349748	GSE13887	Expression	GPL570	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM349749	GSE13887	Expression	GPL570	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM349764	GSE13887	Expression	GPL570	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM349765	GSE13887	Expression	GPL570	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM349766	GSE13887	Expression	GPL570	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM349767	GSE13887	Expression	GPL570	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM349768	GSE13887	Expression	GPL570	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM349769	GSE13887	Expression	GPL570	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM349770	GSE13887	Expression	GPL570	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM608730	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608731	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608732	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608733	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608734	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608735	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608736	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608737	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608738	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608739	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608740	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608741	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608742	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608743	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608744	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608745	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608746	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608747	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608748	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608749	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608750	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608751	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608752	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608753	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608754	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608755	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608756	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608757	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608758	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608759	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608760	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608761	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608762	GSE24706	Expression	GPL6884	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM608763	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608764	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608765	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608766	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608767	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608768	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608769	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608770	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608771	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608772	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608773	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608774	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608775	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608776	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM608777	GSE24706	Expression	GPL6884	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM688840	GSE27895	Methylation	GPL8490	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM688841	GSE27895	Methylation	GPL8490	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM688842	GSE27895	Methylation	GPL8490	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM688843	GSE27895	Methylation	GPL8490	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM688844	GSE27895	Methylation	GPL8490	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM688845	GSE27895	Methylation	GPL8490	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM688846	GSE27895	Methylation	GPL8490	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM688847	GSE27895	Methylation	GPL8490	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM688848	GSE27895	Methylation	GPL8490	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM688849	GSE27895	Methylation	GPL8490	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM688850	GSE27895	Methylation	GPL8490	SLE	Peripheral blood	T cells	Female	NA	NA
+GSM688851	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM688852	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM688853	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM688854	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM688855	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM688856	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM688857	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM688858	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM688859	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM688860	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM688861	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM688862	GSE27895	Methylation	GPL8490	Healthy	Peripheral blood	T cells	Female	NA	NA
+GSM746726	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746727	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746728	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746729	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746730	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746731	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746732	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746733	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746734	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746735	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746736	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746737	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746738	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746739	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746740	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746741	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746742	GSE30153	Expression	GPL570	SLE	Peripheral blood	B cells	NA	NA	NA
+GSM746743	GSE30153	Expression	GPL570	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM746744	GSE30153	Expression	GPL570	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM746745	GSE30153	Expression	GPL570	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM746746	GSE30153	Expression	GPL570	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM746747	GSE30153	Expression	GPL570	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM746748	GSE30153	Expression	GPL570	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM746750	GSE30153	Expression	GPL570	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM746751	GSE30153	Expression	GPL570	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM746752	GSE30153	Expression	GPL570	Healthy	Peripheral blood	B cells	NA	NA	NA
+GSM940450	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940451	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940452	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940453	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940454	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940455	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940456	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940457	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940458	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940459	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940460	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940461	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940462	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940463	GSE38351	Expression	GPL96	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM940472	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM940473	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM940474	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM940475	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM940476	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM940477	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM940478	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM940479	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM940480	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM940481	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM940482	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM940483	GSE38351	Expression	GPL96	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1228860	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228861	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228862	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228863	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228864	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228865	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228866	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228867	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228868	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228869	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228870	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228871	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228872	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228873	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228874	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228875	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228876	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228877	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228878	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228879	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228880	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228881	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228882	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228883	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228884	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228885	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228886	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228887	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228888	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228889	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228890	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228891	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228892	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228893	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228894	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228895	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228896	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228897	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228898	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228899	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228900	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228901	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228902	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228903	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228904	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228905	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228906	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228907	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228908	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228909	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228910	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228911	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228912	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228913	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228914	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228915	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228916	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228917	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228918	GSE50772	Expression	GPL570	Healthy	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228919	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228920	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228921	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228922	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228923	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228924	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228925	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228926	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228927	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228928	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228929	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228930	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228931	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228932	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228933	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228934	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228935	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228936	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228937	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228938	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228939	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1228940	GSE50772	Expression	GPL570	SLE	Peripheral blood	PBMCs	NA	NA	NA
+GSM1395332	GSE57869	Methylation	GPL8490	SLE	Whole blood	NA	Female	NA	NA
+GSM1395333	GSE57869	Methylation	GPL8490	SLE	Whole blood	NA	Female	NA	NA
+GSM1395334	GSE57869	Methylation	GPL8490	SLE	Whole blood	NA	Female	NA	NA
+GSM1395335	GSE57869	Methylation	GPL8490	SLE	Whole blood	NA	Female	NA	NA
+GSM1395336	GSE57869	Methylation	GPL8490	SLE	Whole blood	NA	Female	NA	NA
+GSM1395337	GSE57869	Methylation	GPL8490	SLE	Whole blood	NA	Female	NA	NA
+GSM1395338	GSE57869	Methylation	GPL8490	Healthy	Whole blood	NA	Female	NA	NA
+GSM1395339	GSE57869	Methylation	GPL8490	Healthy	Whole blood	NA	Female	NA	NA
+GSM1395340	GSE57869	Methylation	GPL8490	Healthy	Whole blood	NA	Female	NA	NA
+GSM1395341	GSE57869	Methylation	GPL8490	Healthy	Whole blood	NA	Female	NA	NA
+GSM1395342	GSE57869	Methylation	GPL8490	Healthy	Whole blood	NA	Female	NA	NA
+GSM1395343	GSE57869	Methylation	GPL8490	Healthy	Whole blood	NA	Female	NA	NA
+GSM1431412	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431413	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431414	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431415	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431416	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431417	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431418	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431419	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431420	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431421	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431422	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431423	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431424	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431425	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431426	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431427	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431428	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431429	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431430	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431431	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431432	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431433	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431434	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431435	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431436	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431437	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431438	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431439	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431440	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431441	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431442	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431443	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431444	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431445	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431446	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431447	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431448	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431449	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431450	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431451	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431452	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431453	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431454	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431455	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431456	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431457	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431458	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431459	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431460	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431461	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431462	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431463	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431464	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431465	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431466	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	Monocytes	NA	NA	NA
+GSM1431467	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431468	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431469	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431470	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431471	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431472	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431473	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431474	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431475	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431476	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431477	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431478	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431479	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431480	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431481	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431482	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431483	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431484	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431485	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431486	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431487	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431488	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431489	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431490	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431491	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431492	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431493	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431494	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431495	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431496	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431497	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431498	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431499	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431500	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431501	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431502	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431503	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431504	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431505	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431506	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431507	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431508	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431509	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431510	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431511	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431512	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431513	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431514	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431515	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431516	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431517	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431518	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431519	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431520	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431521	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431522	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431523	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431524	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431525	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431526	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431527	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431528	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431529	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431530	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431531	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431532	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431533	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431534	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431535	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431536	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431537	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431538	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431539	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431540	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431541	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431542	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431543	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431544	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431545	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431546	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431547	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431548	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431549	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431550	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431551	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431552	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431553	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431554	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431555	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431556	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431557	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431558	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431559	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431560	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431561	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431562	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431563	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431564	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431565	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431566	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431567	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431568	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431569	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431570	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431571	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431676	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431677	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431678	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431679	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431680	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431681	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431682	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431683	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431684	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431685	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431686	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431687	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431688	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431689	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431690	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431691	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431692	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431693	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431694	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431695	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431696	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431697	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431698	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431699	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431700	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431701	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431702	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431703	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431704	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431705	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431706	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431707	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431708	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431709	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431710	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431711	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431712	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431713	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431714	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431715	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431716	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431717	GSE59250	Methylation	GPL13534	Healthy	Peripheral blood	T cells	NA	NA	NA
+GSM1431718	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1431719	GSE59250	Methylation	GPL13534	SLE	Peripheral blood	T cells	NA	NA	NA
+GSM1509610	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509612	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509613	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509614	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509615	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509616	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509618	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509619	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509620	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509621	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509622	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509623	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509625	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509626	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509627	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509628	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509630	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509632	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509633	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509634	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509636	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509637	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509638	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509639	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509640	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509641	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509642	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509643	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509644	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509646	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509648	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509649	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509651	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509653	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509655	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509656	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509657	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509658	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509659	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509660	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509661	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509662	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509663	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509664	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509665	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509666	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509667	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509668	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509669	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509671	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509672	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509673	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509675	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509676	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509677	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509678	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509679	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509680	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509681	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509684	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509686	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509687	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509688	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509690	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509692	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509693	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509694	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509695	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509697	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509698	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509699	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509701	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509702	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509703	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509704	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509705	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509706	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509707	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509708	GSE61635	Expression	GPL570	SLE	Whole blood	NA	NA	NA	NA
+GSM1509709	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509710	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509711	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509712	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509713	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509714	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509715	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509716	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509717	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509718	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509719	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509720	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509721	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509722	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509723	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509724	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509725	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509726	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509727	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509728	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509729	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509730	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509731	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509732	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509733	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509734	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509735	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509736	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509737	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1509738	GSE61635	Expression	GPL570	Healthy	Whole blood	NA	NA	NA	NA
+GSM1594220	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594221	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Caucasian
+GSM1594222	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Black
+GSM1594223	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1594224	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Male	1-10	Hispanic/Latino
+GSM1594225	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594226	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Black
+GSM1594250	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Male	11-20	Hispanic/Latino
+GSM1594253	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Caucasian
+GSM1594254	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Caucasian
+GSM1594258	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Black
+GSM1594260	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594261	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Caucasian
+GSM1594262	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Black
+GSM1594263	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Male	11-20	Black
+GSM1594264	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594265	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Black
+GSM1594266	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Asian
+GSM1594267	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1594268	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	11-20	Black
+GSM1594272	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	11-20	Hispanic/Latino
+GSM1594282	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594294	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594304	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594313	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594335	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594342	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594346	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594347	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594358	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1594360	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594372	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594377	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1594382	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594391	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594394	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594395	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594408	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594411	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594413	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594435	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594438	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594439	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Caucasian
+GSM1594455	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594462	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1594472	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594483	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594501	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594516	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594531	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594533	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594534	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594536	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594542	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594549	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	11-20	Caucasian
+GSM1594551	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594554	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	11-20	Black
+GSM1594557	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	11-20	Hispanic/Latino
+GSM1594562	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594574	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1594575	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Black
+GSM1594576	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1594577	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Male	11-20	Black
+GSM1594578	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Black
+GSM1594579	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1594580	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Caucasian
+GSM1594581	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Male	11-20	Black
+GSM1594582	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Male	11-20	Hispanic/Latino
+GSM1594583	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Caucasian
+GSM1594584	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594585	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1594586	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Black
+GSM1594587	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594588	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Caucasian
+GSM1594589	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1594590	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Caucasian
+GSM1594591	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Black
+GSM1594595	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Male	1-10	Asian
+GSM1594596	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594597	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594598	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Male	11-20	Asian
+GSM1594599	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Black
+GSM1594600	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594601	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Male	11-20	Caucasian
+GSM1594604	GSE65391	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594606	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594621	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594633	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594639	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594654	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594657	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	1-10	Black
+GSM1594659	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594662	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1594676	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594679	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594680	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	11-20	Hispanic/Latino
+GSM1594688	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594699	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	11-20	Hispanic/Latino
+GSM1594707	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594708	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594722	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	11-20	Hispanic/Latino
+GSM1594731	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594753	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594755	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594757	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594761	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594776	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594778	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594786	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594790	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594793	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	11-20	Hispanic/Latino
+GSM1594796	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Black
+GSM1594800	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594807	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594808	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594810	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594841	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594850	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594858	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594865	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594878	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594880	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594884	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594886	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594887	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594907	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1594917	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594943	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594964	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1594980	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1594988	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1595001	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	11-20	Hispanic/Latino
+GSM1595030	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Black
+GSM1595054	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	1-10	Hispanic/Latino
+GSM1595064	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	11-20	Hispanic/Latino
+GSM1595079	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1595080	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1595084	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1595094	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1595118	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1595120	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1595135	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1595142	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Male	1-10	Black
+GSM1595145	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Caucasian
+GSM1595148	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1595153	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Caucasian
+GSM1595155	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1595156	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Black
+GSM1595157	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1595160	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1595164	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Black
+GSM1595170	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1595177	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1595180	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1595181	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1595182	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Caucasian
+GSM1595185	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1595193	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1595194	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	1-10	Hispanic/Latino
+GSM1595198	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Black
+GSM1595208	GSE65391	Expression	GPL10558	SLE	Whole blood	NA	Female	11-20	Hispanic/Latino
+GSM1863633	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863634	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863635	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863636	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863637	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863638	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863639	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863640	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863641	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863642	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863643	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863644	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863645	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863646	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863647	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863648	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863649	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863650	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863651	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863652	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863653	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863654	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863655	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863656	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863657	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863658	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863659	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863660	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863661	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863662	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863663	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863664	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863665	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863666	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863667	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863668	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863669	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863670	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863671	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863672	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863673	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863674	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863675	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863676	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863677	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863678	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863679	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863680	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863681	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863682	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863683	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863684	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863685	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863686	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863687	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863688	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863689	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863690	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863691	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863692	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863693	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863694	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863695	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863696	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863697	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863698	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863699	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863700	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863701	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863702	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863703	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863704	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863705	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863706	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863707	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863708	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863709	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863710	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863711	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863712	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863713	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863714	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863715	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863716	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863717	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863718	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863719	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863720	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863721	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863722	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863723	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863724	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863725	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863726	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863727	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863728	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863729	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863730	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863731	GSE72509	Expression	GPL16791	SLE	Whole blood	NA	NA	NA	NA
+GSM1863732	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863733	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863734	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863735	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863736	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863737	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863738	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863739	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863740	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863741	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863742	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863743	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863744	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863745	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863746	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863747	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863748	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM1863749	GSE72509	Expression	GPL16791	Healthy	Whole blood	NA	NA	NA	NA
+GSM2114345	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114346	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114347	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114348	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114349	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114350	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114351	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114352	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114353	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114354	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114355	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114356	GSE80183	Expression	GPL11154	SLE	Peripheral blood	PBLs	NA	NA	NA
+GSM2114357	GSE80183	Expression	GPL11154	Healthy	Peripheral blood	PBLs	NA	NA	NA
+GSM2114358	GSE80183	Expression	GPL11154	Healthy	Peripheral blood	PBLs	NA	NA	NA
+GSM2114359	GSE80183	Expression	GPL11154	Healthy	Peripheral blood	PBLs	NA	NA	NA
+GSM2114360	GSE80183	Expression	GPL11154	Healthy	Peripheral blood	PBLs	NA	NA	NA
+GSM2159829_GSM2186668	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159830_GSM2186669	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159831_GSM2186670	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159832_GSM2186671	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Male	21-30	NA
+GSM2159833_GSM2186672	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159834_GSM2186673	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159835_GSM2186674	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159836_GSM2186675	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	41-50	NA
+GSM2159837_GSM2186676	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159838_GSM2186677	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159839_GSM2186678	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Male	21-30	NA
+GSM2159840_GSM2186679	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Male	21-30	NA
+GSM2159841_GSM2186680	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	41-50	NA
+GSM2159842_GSM2186681	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Male	21-30	NA
+GSM2159843_GSM2186682	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	41-50	NA
+GSM2159844_GSM2186683	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159845_GSM2186684	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159846_GSM2186685	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	41-50	NA
+GSM2159847_GSM2186686	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	41-50	NA
+GSM2159848_GSM2186687	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	41-50	NA
+GSM2159849_GSM2186688	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159850_GSM2186689	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Male	11-20	NA
+GSM2159851_GSM2186690	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159852_GSM2186691	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159853_GSM2186692	GSE82221	Expression + Methylation	GPL10558_GPL13534	Healthy	Peripheral blood	PBMCs	Female	11-20	NA
+GSM2159854_GSM2186693	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159855_GSM2186694	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159856_GSM2186695	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Male	11-20	NA
+GSM2159857_GSM2186696	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM2159858_GSM2186697	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159859_GSM2186698	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159860_GSM2186699	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159861_GSM2186700	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159862_GSM2186701	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159863_GSM2186702	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159864_GSM2186703	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM2159865_GSM2186704	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159866_GSM2186705	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159867_GSM2186706	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159868_GSM2186707	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Male	31-40	NA
+GSM2159869_GSM2186708	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159870_GSM2186709	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159871_GSM2186710	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159872_GSM2186711	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159873_GSM2186712	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159874_GSM2186713	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	41-50	NA
+GSM2159875_GSM2186714	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Male	11-20	NA
+GSM2159876_GSM2186715	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159877_GSM2186716	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159878_GSM2186717	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159879_GSM2186718	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Male	31-40	NA
+GSM2159880_GSM2186719	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	21-30	NA
+GSM2159881_GSM2186720	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2159882_GSM2186721	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	11-20	NA
+GSM2159883_GSM2186722	GSE82221	Expression + Methylation	GPL10558_GPL13534	SLE	Peripheral blood	PBMCs	Female	31-40	NA
+GSM2901826	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901827	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901828	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901829	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901830	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901831	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901832	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901833	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2901834	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2901835	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901836	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2901837	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901838	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901839	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901840	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901841	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901842	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901843	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901844	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901845	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Hispanic or Latino
+GSM2901846	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901847	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901848	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901849	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Not Hispanic or Latino
+GSM2901850	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901851	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901852	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Not Hispanic or Latino
+GSM2901853	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901854	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901855	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901856	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901857	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901858	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901859	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901860	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901861	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901862	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901863	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901864	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901865	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901866	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2901867	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901868	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901869	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901870	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901871	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901872	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901873	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901874	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901875	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901876	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901877	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901878	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901879	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901880	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901881	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901882	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901883	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901884	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901885	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901886	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901887	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Not Hispanic or Latino
+GSM2901888	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901889	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901890	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Not Hispanic or Latino
+GSM2901891	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901892	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901893	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901894	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901895	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901896	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901897	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901898	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901899	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901900	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901901	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901902	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901903	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2901904	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901905	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901906	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901907	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901908	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901909	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901910	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901911	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901912	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901913	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901914	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901915	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901916	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901917	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2901918	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901919	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901920	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901921	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901922	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901923	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901924	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Not Hispanic or Latino
+GSM2901925	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901926	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901927	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Not Hispanic or Latino
+GSM2901928	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901929	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901930	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901931	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901932	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901933	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901934	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901935	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901936	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901937	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901938	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901939	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901940	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901941	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2901942	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901943	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901944	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901945	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901946	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901947	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901948	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901949	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901950	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901951	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2901952	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901953	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901954	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901955	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901956	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901957	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901958	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901959	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901960	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901961	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Not Hispanic or Latino
+GSM2901962	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901963	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901964	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Not Hispanic or Latino
+GSM2901965	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901966	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901967	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901968	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901969	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901970	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901971	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901972	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901973	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901974	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901975	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901976	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2901977	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901978	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901979	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901980	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901981	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901982	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901983	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901984	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901985	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901986	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2901987	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901988	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901989	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2901990	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901991	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901992	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901993	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901994	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901995	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901996	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901997	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2901998	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2901999	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902000	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902001	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902002	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902003	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	11-20	Not Hispanic or Latino
+GSM2902004	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902005	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902006	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902007	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902008	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902009	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902010	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902011	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902012	GSE108497	Expression	GPL10558	Healthy	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902013	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902014	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902015	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902016	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902017	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902018	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902019	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902020	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902021	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902022	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902023	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902024	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902025	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902026	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902027	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902028	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902029	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902030	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902031	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902032	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902033	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902034	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902035	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902036	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902037	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902038	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902039	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902040	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902041	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902042	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902043	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902044	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902045	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902046	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902047	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902048	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902049	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902050	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902051	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902052	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902053	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902054	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902055	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902056	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902057	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902058	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902059	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902060	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902061	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902062	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902063	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902064	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902065	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902066	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902067	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902068	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902069	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902070	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902071	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902072	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902073	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902074	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902075	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902076	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902077	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902078	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902079	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902080	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902081	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902082	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902083	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902084	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902085	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902086	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902087	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902088	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902089	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902090	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902091	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902092	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902093	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902094	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902095	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902096	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902097	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902098	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902099	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902100	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902101	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902102	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902103	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902104	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902105	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902106	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902107	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902108	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902109	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902110	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902111	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902112	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902113	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902114	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902115	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902116	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902117	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902118	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902119	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902120	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902121	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902122	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902123	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902124	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902125	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902126	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902127	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902128	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902129	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902130	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902131	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902132	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902133	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902134	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902135	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902136	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902137	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902138	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902139	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902140	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902141	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902142	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902143	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902144	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902145	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902146	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902147	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902148	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902149	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902150	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902151	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902152	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902153	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902154	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Not Hispanic or Latino
+GSM2902155	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902156	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902157	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902158	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902159	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902160	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902161	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902162	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Not Hispanic or Latino
+GSM2902163	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902164	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902165	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902166	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902167	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902168	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902169	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902170	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902171	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Not Hispanic or Latino
+GSM2902172	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902173	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902174	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902175	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902176	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902177	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902178	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902179	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902180	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902181	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902182	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902183	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902184	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902185	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902186	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902187	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902188	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902189	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902190	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902191	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902192	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902193	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902194	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902195	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902196	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902197	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Not Hispanic or Latino
+GSM2902198	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902199	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902200	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902201	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902202	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902203	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902204	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902205	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Not Hispanic or Latino
+GSM2902206	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902207	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902208	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902209	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902210	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902211	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902212	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Hispanic or Latino
+GSM2902213	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902214	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902215	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902216	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902217	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902218	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902219	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902220	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902221	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902222	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902223	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902224	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902225	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902226	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902227	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902228	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902229	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902230	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902231	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902232	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902233	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902234	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902235	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902236	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902237	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902238	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902239	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Not Hispanic or Latino
+GSM2902240	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902241	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902242	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902243	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902244	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902245	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902246	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Not Hispanic or Latino
+GSM2902247	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902248	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902249	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902250	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902251	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902252	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902253	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902254	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902255	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Hispanic or Latino
+GSM2902256	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902257	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902258	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902259	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902260	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902261	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902262	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902263	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902264	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902265	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902266	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902267	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902268	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902269	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902270	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902271	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902272	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902273	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902274	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902275	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902276	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902277	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902278	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902279	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902280	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902281	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902282	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Not Hispanic or Latino
+GSM2902283	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902284	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902285	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902286	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902287	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902288	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902289	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902290	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Not Hispanic or Latino
+GSM2902291	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902292	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902293	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902294	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902295	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902296	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902297	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902298	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Hispanic or Latino
+GSM2902299	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902300	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902301	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902302	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902303	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902304	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902305	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902306	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902307	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902308	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902309	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902310	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902311	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902312	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902313	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902314	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902315	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902316	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902317	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902318	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	41-50	Not Hispanic or Latino
+GSM2902319	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902320	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902321	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902322	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902323	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902324	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902325	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902326	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Hispanic or Latino
+GSM2902327	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Hispanic or Latino
+GSM2902328	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902329	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902330	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902331	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902332	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902333	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902334	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902335	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	31-40	Not Hispanic or Latino
+GSM2902336	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM2902337	GSE108497	Expression	GPL10558	SLE	Whole blood	NA	Female	21-30	Not Hispanic or Latino
+GSM3559668	GSE124939	Expression	GPL20301	Healthy	Skin	Keratinocytes	NA	NA	NA
+GSM3559672	GSE124939	Expression	GPL20301	Healthy	Skin	Keratinocytes	NA	NA	NA
+GSM3559676	GSE124939	Expression	GPL20301	Healthy	Skin	Keratinocytes	NA	NA	NA
+GSM3559680	GSE124939	Expression	GPL20301	SLE	Skin	Keratinocytes	NA	NA	NA
+GSM3559684	GSE124939	Expression	GPL20301	SLE	Skin	Keratinocytes	NA	NA	NA
+GSM3559688	GSE124939	Expression	GPL20301	SLE	Skin	Keratinocytes	NA	NA	NA
+GSM3559692	GSE124939	Expression	GPL20301	SLE	Skin	Keratinocytes	NA	NA	NA
+GSM3559699	GSE124939	Expression	GPL20301	Healthy	Skin	Keratinocytes	NA	NA	NA
+GSM3559704	GSE124939	Expression	GPL20301	Healthy	Skin	Keratinocytes	NA	NA	NA
+GSM3559709	GSE124939	Expression	GPL20301	Healthy	Skin	Keratinocytes	NA	NA	NA
+GSM3559714	GSE124939	Expression	GPL20301	Healthy	Skin	Keratinocytes	NA	NA	NA
+GSM3559719	GSE124939	Expression	GPL20301	SLE	Skin	Keratinocytes	NA	NA	NA
+GSM3559730	GSE124939	Expression	GPL20301	SLE	Skin	Keratinocytes	NA	NA	NA
+GSM3559735	GSE124939	Expression	GPL20301	SLE	Skin	Keratinocytes	NA	NA	NA
